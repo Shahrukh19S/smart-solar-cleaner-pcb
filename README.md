@@ -81,9 +81,6 @@ This PCB has been **manufactured, assembled (hand-soldered), and tested** with t
 
 MIT License — see [LICENSE](LICENSE).
 
-## Ready for GitHub?
-
-See **[GITHUB_UPLOAD_CHECKLIST.md](GITHUB_UPLOAD_CHECKLIST.md)** for a short pre-upload checklist and push steps.
 
 ## Quick Start
 
