@@ -1,0 +1,56 @@
+# --- Windows / IDE ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+__vm/
+*.vcxproj.user
+*.vcxproj.filters
+
+# --- Arduino / Visual Micro ---
+*.vsarduino.h
+*.sln
+*.vcxproj
+
+# --- Altium Designer ---
+# History (zip backups); keep source files
+**/History/
+**/__Previews/
+**/Project Logs for */
+*.LOG
+
+# --- Optional: uncomment to exclude large binary outputs (keep Gerbers in repo for manufacturing)
+# **/Project Outputs for */*.GBL
+# **/Project Outputs for */*.GBS
+# **/Project Outputs for */*.GTL
+# **/Project Outputs for */*.GTO
+# **/Project Outputs for */*.GPT
+# **/Project Outputs for */*.GPB
+# **/Project Outputs for */*.GKO
+# **/Project Outputs for */*.GM*
+# **/Project Outputs for */*.REP
+# **/Project Outputs for */*.EXTREP
+# **/Project Outputs for */*.LDP
+# **/Project Outputs for */*.APR_LIB
+# **/Project Outputs for */*.apr
+# **/Final PCB*.zip
+
+# --- Secrets (do not commit) ---
+# Blynk auth token and WiFi credentials: use Config.h or environment
+#**/Config.h
+#**/config_private.h
+#**/secrets.h
+.env
+.env.*
+
+# --- Build / temp ---
+*.tmp
+*.temp
+*~
+
+# --- Archives (optional: keep one release zip if desired)
+# *.zip

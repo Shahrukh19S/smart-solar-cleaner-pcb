@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\hp\Desktop\Automatic Solar Panel Cleaner(Part4)\Auto-Solar-Cleaner (PCB)\Auto-Solar-Cleaner\SOLAR_CLEANER_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=solar_cleaner_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=solar_cleaner_pcb-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=solar_cleaner_pcb-rectholes.txt|DrillLayers=gtl,gbl

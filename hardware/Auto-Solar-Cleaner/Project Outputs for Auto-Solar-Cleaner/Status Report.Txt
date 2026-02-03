@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Auto-Solar-Cleaner.PrjPcb]
+   Generated File[SOLAR_CLEANER_PCB-RoundHoles.TXT]
+   Generated File[SOLAR_CLEANER_PCB-SlotHoles.TXT]
+   Generated File[SOLAR_CLEANER_PCB-RectHoles.TXT]
+   Generated File[SOLAR_CLEANER_PCB.LDP]
+   Generated File[SOLAR_CLEANER_PCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 7:37:30 PM On 4/25/2021

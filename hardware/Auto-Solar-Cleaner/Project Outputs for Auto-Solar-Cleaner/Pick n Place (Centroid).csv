@@ -1,0 +1,88 @@
+Altium Designer Pick and Place Locations,,,,,,,,,,,
+C:\Users\hp\Desktop\Automatic Solar Panel Cleaner(Part4)\Auto-Solar-Cleaner (PCB)\Auto-Solar-Cleaner\Project Outputs for Auto-Solar-Cleaner\Pick Place for SOLAR_CLEANER_PCB.csv,,,,,,,,,,,
+,,,,,,,,,,,
+========================================================================================================================,,,,,,,,,,,
+File Design Information:,,,,,,,,,,,
+,,,,,,,,,,,
+Date:       25/04/21,,,,,,,,,,,
+Time:       04:42,,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,,
+Units used: mil,,,,,,,,,,,
+,,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description,Ref-X(mil),Ref-Y(mil),Pad-X(mil),Pad-Y(mil)
+J1,Jumper,TopLayer,HDR1X2,2803.937mil,1748.032mil,180,"Header, 2-Pin",2853.937mil,1748.032mil,2853.937mil,1748.032mil
+U4,AMS117-3.3,TopLayer,SOT-223,3418.354mil,1546.244mil,270,"AMS1117-3.3, Voltage Regulator",3415.354mil,1547.244mil,3508.906mil,1658.448mil
+C15,10uF,TopLayer,SMD-0805C,3612.205mil,1590.551mil,180,CAP CER 10000PF 250V X7T 0805,3612.205mil,1590.551mil,3612.205mil,1550.551mil
+C14,10uF,TopLayer,SMD-0805C,3196.063mil,1641.339mil,270,CAP CER 10000PF 250V X7T 0805,3196.063mil,1641.339mil,3236.063mil,1641.339mil
+RN3,10K,TopLayer,RA0603-8,3368.110mil,1818.898mil,0,"330 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 _3216 Metric_, Convex, Long Side Terminals",3368.110mil,1818.898mil,3314.961mil,1788.898mil
+W_PUMP,Water Pump Motor,TopLayer,Header_I2,5190.945mil,1183.858mil,180,2-pin single line header (in Blue/green color) Normal,5151.575mil,1144.488mil,5190.945mil,1085.433mil
+BR_MT,Brush motor,TopLayer,Header_I2,5190.945mil,590.551mil,180,2-pin single line header (in Blue/green color) Normal,5151.575mil,551.181mil,5190.945mil,492.126mil
+SON3,HC-SR04 ultrasonic sensor,TopLayer,HDR1X4,5180.315mil,3262.598mil,270,"Header, 4-Pin",5180.315mil,3412.598mil,5180.315mil,3412.598mil
+SON2,HC-SR04 ultrasonic sensor,TopLayer,HDR1X4,5180.315mil,2682.677mil,270,"Header, 4-Pin",5180.315mil,2832.677mil,5180.315mil,2832.677mil
+SON1,HC-SR04 ultrasonic sensor,TopLayer,HDR1X4,5180.315mil,2121.654mil,270,"Header, 4-Pin",5180.315mil,2271.654mil,5180.315mil,2271.654mil
+WL_SEN,Water Level Sensor,TopLayer,HDR1X3,4834.252mil,3722.835mil,360,"Header, 3-Pin",4734.252mil,3722.835mil,4734.252mil,3722.835mil
+GSM,GSM Module,TopLayer,HDR1X3,4349.606mil,3722.835mil,180,"Header, 3-Pin",4449.606mil,3722.835mil,4449.606mil,3722.835mil
+R_SEN,Rain Sensor,TopLayer,HDR1X2,5183.071mil,1652.362mil,90,"Header, 2-Pin",5183.071mil,1602.362mil,5183.071mil,1602.362mil
+H6,Header 4X2,TopLayer,HDR2X4,3371.653mil,2085.433mil,360,"Header, 4-Pin, Dual row",3221.653mil,2035.433mil,3221.653mil,2035.433mil
+RN2,10K,TopLayer,RA0603-8,3099.606mil,1073.228mil,360,"330 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 _3216 Metric_, Convex, Long Side Terminals",3099.606mil,1073.228mil,3046.456mil,1043.228mil
+U5,LM358N,TopLayer,VSSOP-8,2843.504mil,885.827mil,90,Integrated Circuit,2805.118mil,735.827mil,2805.118mil,799.212mil
+RN1,1K,TopLayer,RA0603-8,2005.118mil,1055.118mil,180,"330 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 _3216 Metric_, Convex, Long Side Terminals",2005.118mil,1055.118mil,2058.268mil,1085.118mil
+X2,USB-TH,TopLayer,USB-TypeB_Female_(LCSC),2024.449mil,387.618mil,0,USB-Type B Female,1767.559mil,363.819mil,2072.244mil,478.346mil
+X1,PJ-002A,TopLayer,PJ-002A,3519.764mil,327.795mil,270,"2,0 x 6,5 mm, 2,5 A, Yatay, Açık Delik, Dc Güç Jakı Konnektörü",3427.244mil,445.906mil,3427.244mil,445.906mil
+VR2,RPot,TopLayer,VR7(LCSC),4394.488mil,1651.181mil,270,Potentiometer,4344.488mil,1651.181mil,4344.488mil,1751.181mil
+VR1,RPot,TopLayer,VR7(LCSC),1765.354mil,2809.843mil,90,Potentiometer,1815.354mil,2809.843mil,1815.354mil,2709.843mil
+U8,LM393EDR2G,TopLayer,SOIC-8,4665.748mil,1603.740mil,360,Integrated Circuit,4515.748mil,1678.740mil,4557.874mil,1678.740mil
+U7,DS3231SN#,TopLayer,DS3231(Module-footprint),3887.791mil,1165.354mil,360,Real Time Clock IC,3887.795mil,1165.354mil,3683.270mil,1340.354mil
+U3,AMS117-5.0,TopLayer,SOT-223,3045.244mil,330.732mil,270,"AMS1117-3.3, Voltage Regulator",3042.244mil,331.732mil,3135.796mil,442.936mil
+U2,CH340C,TopLayer,SOIC-16_150MIL(LCSC),2472.244mil,824.685mil,0,Integrated Circuit,2472.244mil,824.685mil,2355.236mil,999.685mil
+U1,ATMEGA2560-16AU,TopLayer,TQFP-100(LCSC),2343.031mil,2128.425mil,0,Integrated Circuit,2343.031mil,2128.425mil,2106.811mil,1829.213mil
+SW1,5 PIN SWITCH,TopLayer,SPDT-5Pin,2650.393mil,1298.425mil,180,,2735.748mil,-2075.157mil,2815.748mil,1209.842mil
+R23,10K,TopLayer,SMD-0805-RES,4899.606mil,1625.984mil,270,RES SMD 1 OHM 1% 1/3W 0805,4899.606mil,1625.984mil,4939.606mil,1625.984mil
+R22,10K,TopLayer,SMD-0805-RES,4557.087mil,1787.401mil,180,RES SMD 1 OHM 1% 1/3W 0805,4557.087mil,1787.401mil,4557.087mil,1747.401mil
+R21,1K,TopLayer,SMD-0805-RES,4785.433mil,1842.520mil,270,RES SMD 1 OHM 1% 1/3W 0805,4785.433mil,1842.520mil,4825.433mil,1842.520mil
+R20,220,TopLayer,SMD-0805-RES,1635.827mil,1611.024mil,270,RES SMD 1 OHM 1% 1/3W 0805,1635.827mil,1611.024mil,1675.827mil,1611.024mil
+R19,4.7K,TopLayer,SMD-0805-RES,3990.157mil,1484.252mil,180,RES SMD 1 OHM 1% 1/3W 0805,3990.157mil,1484.252mil,3990.157mil,1444.252mil
+R18,4.7K,TopLayer,SMD-0805-RES,4092.519mil,1484.252mil,180,RES SMD 1 OHM 1% 1/3W 0805,4092.519mil,1484.252mil,4092.519mil,1444.252mil
+R17,,TopLayer,SMD-0805-RES,3998.031mil,838.583mil,270,Resistor,3998.031mil,838.583mil,4038.031mil,838.583mil
+R16,,TopLayer,SMD-0805-RES,3998.031mil,484.252mil,270,Resistor,3998.031mil,484.252mil,4038.031mil,484.252mil
+R11,10K,TopLayer,SMD-0805-RES,2915.354mil,708.661mil,270,RES SMD 1.1 OHM 1% 1/3W 0805,2915.354mil,708.661mil,2955.354mil,708.661mil
+R10,10K,TopLayer,SMD-0805-RES,2915.354mil,610.236mil,90,RES SMD 1.1 OHM 1% 1/3W 0805,2915.354mil,610.236mil,2875.354mil,610.236mil
+R9,1K,TopLayer,SMD-0805-RES,1855.512mil,1045.669mil,360,RES SMD 1.1 OHM 1% 1/3W 0805,1855.512mil,1045.669mil,1855.512mil,1085.669mil
+R1,1M,TopLayer,SMD-0805-RES,2886.220mil,1848.819mil,270,RES SMD 1.1 OHM 1% 1/3W 0805,2886.220mil,1848.819mil,2926.220mil,1848.819mil
+Q5,NPN,TopLayer,SMT_TRIODE_NPN,4003.142mil,717.004mil,270,S8050 NPN Bipolar Junction Transistor,4001.968mil,716.535mil,3958.851mil,754.406mil
+Q4,NPN,TopLayer,SMT_TRIODE_NPN,4000.984mil,358.268mil,270,S8050 NPN Bipolar Junction Transistor,3999.810mil,357.799mil,3956.693mil,395.669mil
+Q3,BSS138,TopLayer,SMT_TRIODE_NPN,3191.414mil,1821.660mil,180,N-Channel Power MOSFET,3190.945mil,1822.835mil,3228.815mil,1865.952mil
+Q2,BSS138,TopLayer,SMT_TRIODE_NPN,3577.240mil,1821.660mil,180,N-Channel Power MOSFET,3576.771mil,1822.835mil,3614.642mil,1865.952mil
+Q1,FDN340P,TopLayer,SOT-23-3,2756.571mil,338.590mil,180,P-Channel  MOSFET SMD CODE=A1SHB,2756.102mil,339.764mil,2793.973mil,382.881mil
+SIG,RED SIGNAL LED,TopLayer,RED_LED_0805,4702.756mil,1755.118mil,360,SMT LED,4702.756mil,1755.906mil,4744.094mil,1755.118mil
+ON,RED ON LED,TopLayer,RED_LED_0805,1750.787mil,1065.827mil,90,SMT LED,1750.000mil,1065.827mil,1750.787mil,1107.166mil
+RX,BLUE RX LED,TopLayer,Blue_LED_0805,2155.118mil,1066.142mil,90,SMT LED,2154.331mil,1066.142mil,2155.118mil,1107.480mil
+TX,BLUE TX LED,TopLayer,Blue_LED_0805,2242.520mil,1066.142mil,90,SMT LED,2241.732mil,1066.142mil,2242.520mil,1107.480mil
+K2,SRD-05VDC-SL-C,TopLayer,SRD-05VDC-SL-C,4549.212mil,1141.732mil,360,5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi,4588.582mil,1141.732mil,4348.425mil,1377.953mil
+K1,SRD-05VDC-SL-C,TopLayer,SRD-05VDC-SL-C,4549.212mil,429.134mil,360,5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi,4588.582mil,429.134mil,4348.425mil,665.354mil
+H10,Header 16H,TopLayer,HDR1X16H,1458.267mil,2261.417mil,270,"Header, 16-Pin, Right Angle",1458.267mil,3011.417mil,1458.267mil,3011.417mil
+MT1,Motor1,TopLayer,HDR2X3,3690.551mil,3682.480mil,180,"Header, 3-Pin, Dual row",3790.551mil,3732.480mil,3790.551mil,3732.480mil
+MT2,Motor2,TopLayer,HDR2X3,2903.149mil,3682.480mil,180,"Header, 3-Pin, Dual row",3003.149mil,3732.480mil,3003.149mil,3732.480mil
+MT3,Motor3,TopLayer,HDR2X3,2115.748mil,3682.480mil,180,"Header, 3-Pin, Dual row",2215.748mil,3732.480mil,2215.748mil,3732.480mil
+MT4,Motor4,TopLayer,HDR2X3,1320.472mil,3682.480mil,180,"Header, 3-Pin, Dual row",1420.472mil,3732.480mil,1420.472mil,3732.480mil
+H1,ICSP,TopLayer,HDR2X3,2657.874mil,1575.984mil,360,"Header, 3-Pin, Dual row",2557.874mil,1525.984mil,2557.874mil,1525.984mil
+F,Fuse 1,TopLayer,MF-MSMF050-2_(LCSC),2545.472mil,161.417mil,360,Fuse,2454.724mil,161.417mil,2454.724mil,161.417mil
+D4,1N4148,TopLayer,LL4148-L3.7_SMD(LCSC),4003.779mil,602.362mil,360,High Conductance Fast Diode,3930.787mil,602.362mil,4076.771mil,602.362mil
+D3,1N4148,TopLayer,LL4148-L3.7_SMD(LCSC),4008.031mil,232.284mil,360,High Conductance Fast Diode,3935.039mil,232.284mil,4081.024mil,232.284mil
+D2,Diode,TopLayer,D0214AC(SMA-2),3757.874mil,598.425mil,90,Default Diode,3757.874mil,598.425mil,3757.874mil,515.748mil
+D1,Diode,TopLayer,D1206-RD,3179.527mil,1266.142mil,360,Default Diode,3179.527mil,1266.142mil,3116.535mil,1266.142mil
+C18,100nF,TopLayer,SMD-0805C,4899.606mil,1535.433mil,90,CAP CER 10000PF 250V X7T 0805,4899.606mil,1535.433mil,4859.606mil,1535.433mil
+C17,100nF,TopLayer,SMD-0805C,4899.606mil,1716.535mil,90,CAP CER 10000PF 250V X7T 0805,4899.606mil,1716.535mil,4859.606mil,1716.535mil
+C16,100nF,TopLayer,SMD-0805C,3541.338mil,1228.346mil,270,CAP CER 10000PF 250V X7T 0805,3541.338mil,1228.346mil,3581.338mil,1228.346mil
+C13,100nF,TopLayer,SMD-0805C,3084.370mil,546.732mil,270,CAP CER 10000PF 250V X7T 0805,3084.370mil,546.732mil,3124.370mil,546.732mil
+C12,Cap Pol2,TopLayer,Elec-Cap-SMD,3423.622mil,1044.094mil,360,Polarized Capacitor (Axial),3423.622mil,1044.094mil,3313.386mil,1044.094mil
+C11,Cap Pol2,TopLayer,Elec-Cap-SMD,3423.622mil,740.945mil,360,Polarized Capacitor (Axial),3423.622mil,740.945mil,3313.386mil,740.945mil
+C10,100nF,TopLayer,SMD-0805C,2635.827mil,334.646mil,180,CAP CER 10000PF 250V X7T 0805,2635.827mil,334.646mil,2635.827mil,294.646mil
+C9,100nF,TopLayer,SMD-0805C,2690.945mil,889.764mil,180,CAP CER 10000PF 250V X7T 0805,2690.945mil,889.764mil,2690.945mil,849.764mil
+C8,100nF,TopLayer,SMD-0805C,2548.819mil,1089.764mil,90,CAP CER 10000PF 250V X7T 0805,2548.819mil,1089.764mil,2508.819mil,1089.764mil
+C7,22pF,TopLayer,SMD-0603C,3146.456mil,1344.094mil,90,CAP CER 10000PF 250V X7T 0805,3146.456mil,1344.094mil,3115.945mil,1344.094mil
+C6,100nF,TopLayer,SMD-0805C,1879.134mil,1819.685mil,360,CAP CER 10000PF 250V X7T 0805,1879.134mil,1819.685mil,1879.134mil,1859.685mil
+C5,100nF,TopLayer,SMD-0805C,1923.622mil,2185.827mil,360,CAP CER 10000PF 250V X7T 0805,1923.622mil,2185.827mil,1923.622mil,2225.827mil
+C4,100nF,TopLayer,SMD-0805C,2292.913mil,2547.638mil,270,CAP CER 10000PF 250V X7T 0805,2292.913mil,2547.638mil,2332.913mil,2547.638mil
+C3,100nF,TopLayer,SMD-0805C,2324.016mil,1711.417mil,90,CAP CER 10000PF 250V X7T 0805,2324.016mil,1711.417mil,2284.016mil,1711.417mil

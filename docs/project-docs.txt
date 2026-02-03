@@ -1,0 +1,15 @@
+1: ultrasonic (waterproof) 3x
+2: Rain sensor
+3: Wifi 
+4: Solar charge controller
+5: Automatic battery charging and discharging
+6: motors 5x (2-forw/back , 2-horizontal , 1-brush)
+7: Blynk
+8: Real time clock
+8: 22 by 6 meter solar panel to be cleaned
+9: one solar panel dedicated for the cleaner only.
+10: Sim module 
+11: Arduino Mega
+12: LCD
+13: Water Level Sensor 
+14: Water Pump
