@@ -10,7 +10,7 @@ The system cleans solar panels using a brush and water pump, with motion provide
 
 ### SMART SOLAR CLEANER PCB PINOUT:
 
-[3D View of PCB Board on Altium Designer](/resources/2021-06-28 (1).png)
+[3D View of PCB Board on Altium Designer](resources/2021-06-28%20(1).png)
 
 ## Features
 
