@@ -6,6 +6,12 @@ A smart PCB for an **automatic solar panel cleaning system**, designed in Altium
 
 The system cleans solar panels using a brush and water pump, with motion provided by four motors (forward/back, horizontal, brush). It uses three ultrasonic (sonar) sensors for positioning, a rain sensor, WiFi (ESP-01) and Blynk for control, a 16×2 LCD, RTC, and an Arduino Mega as the main controller. Power input is 7–12 V DC; two relays drive the water pump and brush motor.
 
+## 📹 Demo
+
+### SMART SOLAR CLEANER PCB PINOUT:
+
+[3D View of PCB Board on Altium Designer](docs/pinout/PCB-Pinout.png)
+
 ## Features
 
 | Category | Details |
